@@ -5,6 +5,6 @@
 - 📫 How to reach me aakash.k2704@gmail.com
 
 <!---
-Freakyavk/Freakyavk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kaakash2704/Aakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
