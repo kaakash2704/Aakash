@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freakyavk
+- 👋 Hi, I’m @kaakash2704
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning B.Tech Cys & Iot
 - 💞️ I’m looking to collaborate on GitHub
